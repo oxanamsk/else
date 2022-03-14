@@ -6,8 +6,8 @@ int main() {
     int x=8, y=16, res;
     x--;
     y++;
-    y*=15;
+    y*=165;
     res=x+y;
-printf("%d", res);
+    printf("%d", res);
     return 0;
 }
